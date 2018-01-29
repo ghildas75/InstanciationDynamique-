@@ -1,0 +1,7 @@
+C:\Users\Portable\source\repos\InversionControle\InversionControle\bin\Debug\InversionControle.exe.config
+C:\Users\Portable\source\repos\InversionControle\InversionControle\bin\Debug\InversionControle.exe
+C:\Users\Portable\source\repos\InversionControle\InversionControle\bin\Debug\InversionControle.pdb
+C:\Users\Portable\source\repos\InversionControle\InversionControle\obj\Debug\InversionControle.csprojResolveAssemblyReference.cache
+C:\Users\Portable\source\repos\InversionControle\InversionControle\obj\Debug\InversionControle.csproj.CoreCompileInputs.cache
+C:\Users\Portable\source\repos\InversionControle\InversionControle\obj\Debug\InversionControle.exe
+C:\Users\Portable\source\repos\InversionControle\InversionControle\obj\Debug\InversionControle.pdb
